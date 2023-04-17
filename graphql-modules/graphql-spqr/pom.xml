@@ -37,7 +37,7 @@
     </dependencies>
 
     <properties>
-        <spqr-version>0.11.2</spqr-version>
+        <spqr-version>0.12.2</spqr-version>
     </properties>
 
 </project>
