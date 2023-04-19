@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic
 RUN echo $PATH
 RUN echo "export PATH=$PATH:/etc/profile" >> ~/.bashrc
 RUN cat ~/.bashrc
