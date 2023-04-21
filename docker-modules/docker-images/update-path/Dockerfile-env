@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic
 RUN echo $PATH
 ENV PATH="$PATH:/etc/profile"
 RUN echo $PATH
