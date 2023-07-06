@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic
 COPY folder1/ /workdir/
 RUN ls --recursive /workdir/
 COPY folder2/ /workdir/
