@@ -48,7 +48,7 @@
     </dependencies>
 
     <properties>
-        <springdoc.version>1.6.13</springdoc.version>
+        <springdoc.version>1.8.0</springdoc.version>
     </properties>
 
 </project>
