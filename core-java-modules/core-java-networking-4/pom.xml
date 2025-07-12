@@ -27,7 +27,7 @@
     </build>
 
     <properties>
-        <apache.commons-validator.version>1.7</apache.commons-validator.version>
+        <apache.commons-validator.version>1.10.0</apache.commons-validator.version>
     </properties>
 
 </project>
